@@ -1,0 +1,21 @@
+*{
+    font-family: 'Roboto';
+}
+
+.button1{
+    background-color: #3eb25e;
+    border-radius:  20px;
+    width: 199px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Roboto';
+}
+
+button:hover{
+    background-color: #fce304;
+}
+
+a{
+    color: aliceblue;
+}
+
